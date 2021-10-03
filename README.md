@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 <!--
 **AbhishekRanjan8051/AbhishekRanjan8051** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
