@@ -16,7 +16,7 @@
 
 
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Connect with me ....*** 
-<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px">
+
   <p align="left">
   <a href="https://www.linkedin.com/in/abhishek-ranjan-8051/" target="blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
   <a href="https://twitter.com/A_Ranjan8051"><img src="https://img.icons8.com/color/48/000000/twitter--v2.png"  /></a>
