@@ -90,6 +90,7 @@
 
 </td>
   </tr>
+  <tr valign="top">
 <td width="25%" align="center">
 
 <span>NPM</span><br><br>
@@ -98,9 +99,6 @@
 
 </td>
 
-
-
-<tr valign="top">
 
 <td width="25%" align="center">
 
