@@ -89,6 +89,7 @@
 <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
 
 </td>
+  </tr>
 <td width="25%" align="center">
 
 <span>NPM</span><br><br>
@@ -97,7 +98,7 @@
 
 </td>
 
-</tr>
+
 
 <tr valign="top">
 
